@@ -67,3 +67,7 @@ http://170.82.37.21:8000/play/a018/index.m3u8
 http://170.82.37.21:8000/play/a019/index.m3u8
 #EXTINF:-1,Disney Channel
 http://170.82.37.21:8000/play/a00t/index.m3u8
+#EXTINF:-1,TyC Sports
+http://170.82.37.21:8000/play/a016/index.m3u8
+#EXTINF:-1,Latino | TyC Sports
+http://streamsy.online:2999/carlosbermudez/oZLRHZHL0z/288
